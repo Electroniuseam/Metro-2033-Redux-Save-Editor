@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Metro-2033-Redux-Save-Editor` · Updated: 2026-10-07
+`Metro-2033-Redux-Save-Editor` · Updated: 2026-10-23
 
 **Tags:** `metro-2033` `metro-redux` `save-editor` `fps` `survival`
